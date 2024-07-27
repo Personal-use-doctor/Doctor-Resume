@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Disney + Hotstar Clone",
+    "desc": "Responsive web app replicating Disney+ Hotstar using HTML, CSS, and JavaScript.",
+    "image": "Disney+Hotstar.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://disney-plus-hotstar-clone-nithiyanantham.vercel.app/",
+      "code": "https://disney-plus-hotstar-clone-nithiyanantham.vercel.app/"
+    }
+  },
+  {
+    "name": "Video Conference Application",
+    "desc": "A Next.js app with Tailwind CSS and ShadCN, designed for smooth video meetings and seamless remote collabaration.",
+    "image": "videoApp.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-m/Video-Conference-Application",
+      "code": "https://github.com/Nithiyanantham-m/Video-Conference-Application"
+    }
+  },
+  {
+    "name": "E-commerce Watch Website",
+    "desc": "Responsive Watch website built using HTML,Tailwind CSS and JavaScript",
+    "image": "watch.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://responsive-watch-website-nithiyanantham.vercel.app/",
+      "code": "https://responsive-watch-website-nithiyanantham.vercel.app/"
+    }
+  },
+  {
+    "name": "Quiz Application",
+    "desc": "Full Stack Quiz Application using MERN - MongoDB, Express.js, React.js, Node.js that follows MVC Architecture",
+    "image": "quiz.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-m/IP_Quiz_App_FullStack",
+      "code": "https://github.com/Nithiyanantham-m/IP_Quiz_App_FullStack"
+    }
+  },
+  {
+    "name": "Bank Management System",
+    "desc": "A Java and MySQL application for efficient banking operations and account management.",
+    "image": "atm.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-m/ATM-Simulation-System",
+      "code": "https://github.com/Nithiyanantham-m/ATM-Simulation-System"
+    }
+  },
+  {
+    "name": "Inventory Management ",
+    "desc": "Weapon Inventory Management System using Oracle SQL and Java with Netbeans and JFrame",
+    "image": "weapon.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-m/Weapon-Inventory-Management",
+      "code": "https://github.com/Nithiyanantham-m/Weapon-Inventory-Management"
+    }
+  },
+  
+  {
+    "name": "Titanic Survival Prediction",
+    "desc": "Titanic Survival Prediction system using ML algorithms : Logistic Regression, Random Forests, SVM, and KNN",
+    "image": "titanic.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-M-62/Afame-Technologies-Titanic_Survival_Prediction",
+      "code": "https://github.com/Nithiyanantham-M-62/Afame-Technologies-Titanic_Survival_Prediction"
+    }
+  },
+  {
+    "name": "Doctored Image  Detector",
+    "desc": "ML system using Convolutional Neural Networks (CNN) to identify real and fake images",
+    "image": "fake.jpg",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Nithiyanantham-m/Doctored-Image-Detection",
+      "code": "https://github.com/Nithiyanantham-m/Doctored-Image-Detection"
+    }
+  },
+  {
+    "name": "Recipe Finder",
+    "desc": "A React-based application using Eduman API and MongoDB to search and organize recipes",
+    "image": "recipe.jpg",
+    "category": "mern",
+    "links": {
+      "view": "hhttps://github.com/Nithiyanantham-m/Recipie-Finder",
+      "code": "https://github.com/Nithiyanantham-m/Recipie-Finder"
+    }
+  }
+]
